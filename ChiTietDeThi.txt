@@ -1,0 +1,241 @@
+N18DCCN001
+CTDLGT
+5
+Cau Truc 3
+Sai 2
+Sai 1
+Dung
+Sai 3
+C
+C
+Cau Truc 2
+Sai 2
+Sai 1
+Dung
+Sai 3
+C
+-
+Cau Truc 1
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+-
+Cau Truc 6
+Sai 2
+Dung
+Sai 1
+Sai 3
+B
+-
+Cau Truc 5
+Sai 2
+Dung
+Sai 1
+Sai 3
+B
+-
+N18DCCN002
+CTDLGT
+2
+Cau Truc 4
+Dung
+Sai 2
+Sai 1
+Sai 3
+A
+-
+Cau Truc 6
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+-
+N18DCCN010
+TRR1
+3
+Toan Roi Rac 4
+Sai 2
+Sai 1
+Dung
+Sai 3
+C
+C
+Toan Roi Rac 1
+Sai 1
+Sai 2
+Dung
+Sai 3
+C
+C
+Toan Roi Rac 2
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+B
+N18DCCN040
+TRR1
+4
+Trr14
+S
+S
+D
+S
+C
+C
+Trr18
+S
+D
+S
+S
+B
+B
+Trr8
+D
+S
+S
+S
+A
+A
+Trr6
+S
+S
+D
+S
+C
+D
+N18DCCN040
+CTDLGT
+4
+Cau Truc 6
+Sai 1
+Sai 2
+Dung
+Sai 3
+C
+B
+Cau Truc 3
+Sai 1
+Sai 2
+Dung
+Sai 3
+C
+C
+Cau Truc 1
+Sai 1
+Dung
+Sai 2
+Sai 3
+B
+B
+Cau Truc 5
+Sai 2
+Sai 1
+Dung
+Sai 3
+C
+C
+N18DCCN063
+CTDLGT
+4
+Cau Truc 1
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+A
+Cau Truc 6
+Dung
+Sai 2
+Sai 1
+Sai 3
+A
+A
+Cau Truc 2
+Sai 2
+Sai 1
+Dung
+Sai 3
+C
+C
+Cau Truc 4
+Sai 2
+Dung
+Sai 1
+Sai 3
+B
+B
+N18DCCN063
+TRR1
+4
+Trr17
+S
+D
+S
+S
+B
+B
+Trr 5
+S
+S
+D
+S
+C
+B
+Trr6
+D
+S
+S
+S
+A
+A
+Trr10
+D
+S
+S
+S
+A
+A
+N18DCCN003
+CTDLGT
+5
+Cau Truc 3
+Sai 1
+Sai 3
+Dung
+Sai 2
+C
+C
+Cau Truc 4
+Sai 3
+Sai 1
+Dung
+Sai 2
+C
+B
+Cau Truc 2
+Sai 2
+Sai 3
+Dung
+Sai 1
+C
+C
+Cau Truc 1
+Sai 2
+Dung
+Sai 3
+Sai 1
+B
+C
+Cau Truc 6
+Sai 3
+Sai 2
+Dung
+Sai 1
+C
+C

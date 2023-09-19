@@ -1,0 +1,180 @@
+CTDLGT
+Ctdlgt
+7
+Cau Truc 1
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+Cau Truc 2
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+Cau Truc 3
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+Cau Truc 4
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+Cau Truc 5
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+Cau Truc 6
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+Cau Truc 7
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+TRR1
+Toan Roi Rac 1
+21
+Toan Roi Rac 1
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+Toan Roi Rac 2
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+Toan Roi Rac 3
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+Toan Roi Rac 4
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+Toan Roi Rac 5
+Dung
+Sai 1
+Sai 2
+Sai 3
+A
+Trr 5
+D
+S
+S
+S
+A
+Trr6
+D
+S
+S
+S
+A
+Trr7
+D
+S
+S
+S
+A
+Trr8
+D
+S
+S
+S
+A
+Trr9
+D
+S
+S
+S
+A
+Trr10
+D
+S
+S
+S
+A
+Trr11
+D
+S
+S
+S
+A
+Trr12
+D
+S
+S
+S
+A
+Trr13
+D
+S
+S
+S
+A
+Trr14
+D
+S
+S
+S
+A
+Trr15
+D
+S
+S
+S
+A
+Trr16
+D
+S
+S
+S
+A
+Trr17
+D
+S
+S
+S
+A
+Trr18
+D
+S
+S
+S
+A
+Trr19
+D
+S
+S
+S
+A
+Trr20
+D
+S
+S
+S
+A
+TRR2
+Toan Roi Rac 2
+0
+VXL
+Vi Xu Li
+0
